@@ -1,0 +1,24 @@
+{
+  "name": "node-bookmark-app",
+  "version": "1.0.0",
+  "description": "npm init -y (-y: without questions)",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tiagosatur/node-bookmark-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tiagosatur/node-bookmark-app/issues"
+  },
+  "homepage": "https://github.com/tiagosatur/node-bookmark-app#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  }
+}
