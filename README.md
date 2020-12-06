@@ -1,6 +1,6 @@
 # node-bookmark-app
 
-Build a http server - serving `/public/index.html`
+Build a http server, consume rest built api
 
 Consume api in the frontend
 
